@@ -5,7 +5,7 @@
 <section id="first-sec">
 	<div class="container">
 		<div class="first-img-des">
-			<h3>A Place For All Your Dress Needs</h3>
+			<h3>I am confident in this</h3>
 			<div>
 				<h4>For You and Your Family</h4>
 			</div>
